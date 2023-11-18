@@ -20,8 +20,6 @@ definitions:
         type: integer
       name:
         type: string
-      val:
-        type: string
       tag:
         type: string
     required:
