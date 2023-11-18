@@ -5,7 +5,7 @@ data:
   context: /v1
   version: 1.0.0
   provider: admin
-  lifeCycleStatus: PUBLISHED
+  lifeCycleStatus: CREATED
   isRevision: false
   revisionId: 0
   type: HTTP
@@ -18,8 +18,8 @@ data:
   endpointConfig:
     endpoint_type: http
     production_endpoints:
-      url: http://localhasost1:8080
+      url: http://localhost:8080
     sandbox_endpoints:
-      url: http://localhoasst1:8081
+      url: http://localhost:8081
   endpointImplementationType: ENDPOINT
   websubSubscriptionConfiguration: null
