@@ -18,8 +18,8 @@ data:
   endpointConfig:
     endpoint_type: http
     production_endpoints:
-      url: http://localhost1:8080
+      url: http://localhasost1:8080
     sandbox_endpoints:
-      url: http://localhost1:8081
+      url: http://localhoasst1:8081
   endpointImplementationType: ENDPOINT
   websubSubscriptionConfiguration: null
