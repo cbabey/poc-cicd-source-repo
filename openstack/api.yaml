@@ -3,7 +3,7 @@ version: v4.2.0
 data:
   name: os-services
   context: /os-services
-  version: Unknown
+  version: 1.0.0
   provider: admin
   lifeCycleStatus: CREATED
   isRevision: false
@@ -22,4 +22,3 @@ data:
     sandbox_endpoints:
       url: http://localhost:8081
   endpointImplementationType: ENDPOINT
-  websubSubscriptionConfiguration: null
