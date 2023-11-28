@@ -2,7 +2,7 @@ type: api
 version: v4.2.0
 data:
   name: UberAPI
-  description: Move your app forward with the Uber API
+  description: Move your app forward with the Uber API_1
   context: /v1
   version: 1.0.0
   provider: admin
